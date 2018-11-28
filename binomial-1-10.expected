@@ -1,0 +1,23 @@
+MAX HEAP
+peek: 2147449596
+size is 102838
+extracting a bunch of values...
+extraction #102808: 887455
+extraction #102809: 886165
+extraction #102810: 860679
+extraction #102811: 816201
+extraction #102812: 770234
+extraction #102813: 750591
+extraction #102815: 685329
+extraction #102820: 664749
+extraction #102824: 653299
+extraction #102825: 642281
+peek: 619500
+rootlist: NULL NULL 413522 NULL 619500*
+debug:
+{{413522,619500}}
+{{106906,195055}}{{89614,495627,576933,616920}}
+{{65411}}{{383963}}{{217533,560807}}{{496104,268367,510632}}
+{{313761}}{{135878}}{{116820,494415}}
+{{135974}}
+size is 20
